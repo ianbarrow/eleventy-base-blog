@@ -5,7 +5,7 @@ date: 2020-11-25
 tags: second-tag
 layout: layouts/post.njk
 ---
-## Really just a copy of the forth...
+## Really, this is  just a copy of the forth post...
 
 ![img/R2-5_web.jpg](/img/R2-5_web.jpg)
 
